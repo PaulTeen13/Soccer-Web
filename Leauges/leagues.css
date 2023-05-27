@@ -1,0 +1,32 @@
+h1 {
+  text-align: center;
+  font-size: 70px;
+  color: rgb(191, 212, 30);
+}
+
+.nav-link {
+  margin-right: 15px;
+  text-decoration: none;
+  color: rgb(26, 255, 0);
+  font-size: 30px;
+}
+
+.leagues {
+  display: flex;
+  float: left;
+  font-size: 27px;
+  border: 1px solid red;
+  border-radius: 10px;
+  color: rgb(225, 255, 0);
+}
+
+.leagues img {
+  height: 360px;
+  width: 450px;
+  border-radius: 10px;
+  margin-left: none;
+  margin-right: 17.5px;
+}
+body {
+  background-color: rgb(14, 6, 236);
+}
